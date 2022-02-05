@@ -1,0 +1,7 @@
+Sources :
+https://github.com/ (oscarmac384)
+https://developer.mozilla.org/fr/docs/Web/API/Window/requestAnimationFrame
+https://developer.mozilla.org/fr/docs/Web/API/Canvas_API/Tutorial
+https://getbootstrap.com/
+https://www.pinterest.fr/
+https://stackoverflow.com/

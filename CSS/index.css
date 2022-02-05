@@ -1,0 +1,80 @@
+
+#container h1{
+    text-align: center;
+  }
+
+
+body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image:url(/assets/images/123z-2101.w026.n002.56b.p1.56.jpeg)  ;
+    padding: 0px;
+    margin: 0;
+    
+}
+
+canvas {
+    width:400px;
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+   align-items: center;
+   align-content: space-around;
+   column-count: auto;
+}
+
+input[type='image'] {
+  width: 80px;
+}
+
+#MenuEl
+{
+  display: flex;
+}
+
+.nav_barre {
+  background-color: white;
+  width: auto;
+  height: 70px;
+  
+  
+}
+
+.navbar-caption-wrap {
+  color: black  !important;
+  font-weight: 700;
+}
+
+.logotxt {
+ align-items: center;
+ justify-content: space-between;
+ display: flex;
+ position:relative;
+  word-wrap: break-word;
+}
+
+.caselogotxt {
+  align-items: center;
+  display: flex;
+}
+
+a {
+  color: black im !important;
+  text-decoration: none;
+  font-weight: 700;
+  white-space: normal;
+  vertical-align: -4px;
+  font-family: 'Jost', sans-serif;
+  font-size: 1.2rem;
+}
+
+.navbarlogo {
+  font-size: 1em;
+  padding: 15px 15px;
+  
+  margin: 0;
+  float: left;
+
+}
